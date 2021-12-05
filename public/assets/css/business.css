@@ -1,0 +1,229 @@
+@font-face {
+    font-family: "icomoon";
+    src: url("fonts/icomoon.eot?606d8x");
+    src: url("fonts/icomoon.eot?606d8x#iefix") format("embedded-opentype"),
+        url("fonts/icomoon.ttf?606d8x") format("truetype"),
+        url("fonts/icomoon.woff?606d8x") format("woff"),
+        url("fonts/icomoon.svg?606d8x#icomoon") format("svg");
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+[class^="icon-"],
+[class*=" icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: "icomoon" !important;
+    speak: never;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-group:before {
+    content: "\e912";
+}
+.icon-interview:before {
+    content: "\e913";
+}
+.icon-resume:before {
+    content: "\e914";
+}
+.icon-jobs1:before {
+    content: "\e915";
+}
+.icon-jobs2:before {
+    content: "\e916";
+}
+.icon-jobs-search:before {
+    content: "\e917";
+}
+.icon-human-resource1:before {
+    content: "\e918";
+}
+.icon-jobs-search1:before {
+    content: "\e919";
+}
+.icon-jobs-search2:before {
+    content: "\e91a";
+}
+.icon-human-resource2:before {
+    content: "\e91b";
+}
+.icon-human-resource3:before {
+    content: "\e91c";
+}
+.icon-human-resource:before {
+    content: "\e91d";
+}
+.icon-planning:before {
+    content: "\e91e";
+}
+.icon-research:before {
+    content: "\e91f";
+}
+.icon-budget:before {
+    content: "\e920";
+}
+.icon-employee:before {
+    content: "\e921";
+}
+.icon-add-user:before {
+    content: "\e922";
+}
+.icon-jobs:before {
+    content: "\e923";
+}
+.icon-speech:before {
+    content: "\e924";
+}
+.icon-speech1:before {
+    content: "\e925";
+}
+.icon-question:before {
+    content: "\e926";
+}
+.icon-employee1:before {
+    content: "\e927";
+}
+.icon-setting:before {
+    content: "\e928";
+}
+.icon-Human-resources:before {
+    content: "\e929";
+}
+.icon-Human-Resources22:before {
+    content: "\e92a";
+}
+.icon-Human-Resources21:before {
+    content: "\e92b";
+}
+.icon-Human-Resources20:before {
+    content: "\e92c";
+}
+.icon-Human-Resources19:before {
+    content: "\e92d";
+}
+.icon-Human-Resources13:before {
+    content: "\e92e";
+}
+.icon-Human-Resources14:before {
+    content: "\e92f";
+}
+.icon-Human-Resources15:before {
+    content: "\e930";
+}
+.icon-Human-Resources16:before {
+    content: "\e931";
+}
+.icon-Human-Resources17:before {
+    content: "\e932";
+}
+.icon-Human-Resources18:before {
+    content: "\e933";
+}
+.icon-Human-Resources:before {
+    content: "\e934";
+}
+.icon-Human-Resources1:before {
+    content: "\e935";
+}
+.icon-Human-Resources6:before {
+    content: "\e936";
+}
+.icon-Human-Resources5:before {
+    content: "\e937";
+}
+.icon-Human-Resources23:before {
+    content: "\e938";
+}
+.icon-Human-Resources24:before {
+    content: "\e939";
+}
+.icon-Human-Resources25:before {
+    content: "\e93a";
+}
+.icon-Human-Resources26:before {
+    content: "\e93b";
+}
+.icon-Human-Resources27:before {
+    content: "\e93c";
+}
+.icon-Human-Resources28:before {
+    content: "\e93d";
+}
+.icon-Human-Resources29:before {
+    content: "\e93e";
+}
+.icon-Human-Resources12:before {
+    content: "\e93f";
+}
+.icon-Human-Resources11:before {
+    content: "\e940";
+}
+.icon-Human-Resources10:before {
+    content: "\e941";
+}
+.icon-Human-Resources9:before {
+    content: "\e942";
+}
+.icon-Human-Resources8:before {
+    content: "\e943";
+}
+.icon-Human-Resources7:before {
+    content: "\e944";
+}
+.icon-Human-Resources2:before {
+    content: "\e945";
+}
+.icon-Human-Resources3:before {
+    content: "\e946";
+}
+.icon-Human-Resources4:before {
+    content: "\e947";
+}
+.icon-activity:before {
+    content: "\e900";
+}
+.icon-award:before {
+    content: "\e902";
+}
+.icon-chevron-left:before {
+    content: "\e906";
+}
+.icon-chevron-right:before {
+    content: "\e907";
+}
+.icon-location:before {
+    content: "\ebe7";
+}
+.icon-arrow-up-left:before {
+    content: "\ecd9";
+}
+.icon-arrow-up:before {
+    content: "\ecda";
+}
+.icon-arrow-up-right:before {
+    content: "\ecdb";
+}
+.icon-arrow-right:before {
+    content: "\ecdc";
+}
+.icon-arrow-down-right:before {
+    content: "\ecdd";
+}
+.icon-arrow-down:before {
+    content: "\ecde";
+}
+.icon-arrow-down-left:before {
+    content: "\ecdf";
+}
+.icon-arrow-left:before {
+    content: "\ece0";
+}
